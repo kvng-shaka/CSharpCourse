@@ -9,14 +9,13 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Enter Car Model: ");
+        Console.WriteLine("Enter Car Model: ");
         string? carModel = Console.ReadLine();
 
-        Console.Write("Enter Plate Number: ");
-        string? 
-        plateNumber = Console.ReadLine();
+        Console.WriteLine("Enter Plate Number: ");
+        string? plateNumber = Console.ReadLine();
 
-        Console.Write("Enter Number of Hours Parked: ");
+        Console.WriteLine("Enter Number of Hours Parked: ");
         int hoursParked = Convert.ToInt32(Console.ReadLine());
 
         double fee = ParkingFee(hoursParked);

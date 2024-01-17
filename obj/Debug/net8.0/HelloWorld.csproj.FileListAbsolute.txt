@@ -1,0 +1,14 @@
+/Users/oatek/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/oatek/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/oatek/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/oatek/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/oatek/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/oatek/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oatek/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/oatek/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/oatek/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/oatek/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/oatek/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/oatek/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/oatek/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/oatek/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
